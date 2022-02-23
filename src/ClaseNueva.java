@@ -7,4 +7,7 @@ public class ClaseNueva {
 	void olaKase() {
 		
 	}
+	void prueba() {
+		
+	}	
 }
